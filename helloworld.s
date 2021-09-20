@@ -2,7 +2,7 @@
 	.text
 	.section	.rodata
 .LC0:
-	.string	"String is changed?\n"
+	.string	"Not Hello World"
 	.text
 	.globl	main
 	.type	main, @function
